@@ -1,0 +1,18 @@
+user and admin access 
+after delete yes or no option 
+route not pick
+e.g. default via 192.168.1.1 dev eno1 proto static
+default via 10.147.212.129 dev eno4 proto static
+default via 10.153.175.17 dev eno3 proto static
+default via 10.153.175.33 dev eno2 proto static
+10.147.50.0/24 via 10.147.212.129 dev eno4 proto static
+
+
+in mobile sim doggle add status option (pending/return)
+ip option primary ip, secondary ip, public ip, privat ip  
+
+
+
+corphepldesk@infotelconnect.com
+
+117.247.175.87
